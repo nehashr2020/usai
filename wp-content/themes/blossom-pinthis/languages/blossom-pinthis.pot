@@ -1,0 +1,209 @@
+# <!=Copyright (C) 2020 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blossom PinThis 1.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blossom-pinthis\n"
+"POT-Creation-Date: 2020-07-08 13:43:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: functions.php:86
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:99
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:101
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:126
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:127
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:140
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:141
+msgid "Customize Typography & Background Image"
+msgstr ""
+
+#: functions.php:149
+msgid "Typography"
+msgstr ""
+
+#: functions.php:169
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:170
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:191
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:192
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:214
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:215
+msgid "Change the font size of your site."
+msgstr ""
+
+#: functions.php:233 functions.php:254
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:255
+msgid "This is the layout for header."
+msgstr ""
+
+#: functions.php:268 functions.php:289
+msgid "Home Page Layout"
+msgstr ""
+
+#: functions.php:290
+msgid "This is the layout for blog index page."
+msgstr ""
+
+#: functions.php:303
+msgid "Archive Layout"
+msgstr ""
+
+#: functions.php:324
+msgid "Archive Page Layout"
+msgstr ""
+
+#: functions.php:325
+msgid "This is the layout for archive and search page."
+msgstr ""
+
+#: functions.php:338 functions.php:359
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:360
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:427
+msgid "Wondering how your peers are using social media?"
+msgstr ""
+
+#: functions.php:428
+msgid "Discover how people in the community create pins to get their attention?"
+msgstr ""
+
+#: functions.php:429
+msgid "Discover More"
+msgstr ""
+
+#: functions.php:876
+msgid "Read more"
+msgstr ""
+
+#: functions.php:896
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: functions.php:931
+msgid " Blossom PinThis | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:934
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:934
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blossom PinThis"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/downloads/blossom-pinthis-free-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blossom PinThis is a free child theme of Blossom Pin WordPress theme. The "
+"theme was created for bloggers who don’t know how to code, and neither have "
+"the budget to hire a developer but want a cool and beautiful blogging "
+"website quickly. You can create a fashion, lifestyle, beauty, makeup, mom, "
+"gossip, food, journal blog, or any type of feminine blog with this free "
+"theme. This theme is perfect for aspiring bloggers who want to share their "
+"ideas with the world. Blossom PinThis is SEO optimized and Schema markup "
+"ready which means Google will fall in love with your blog and ranks you "
+"higher than your competitors. The theme is fully responsive and displays "
+"flawlessly on every kind of devices, be it a mobile phone or a large "
+"desktop monitor. Blossom PinThis also loads super fast as it is made with "
+"speed optimized code. Your blog’s speed is a crucial factor in terms of "
+"user experience and SEO. Furthermore, your visitors can directly pin the "
+"images of your blog on their Pinterest with a click on Blossom PinThis "
+"theme. Blossom PinThis was inspired and made for Pinterest. The theme also "
+"features an attractive, modern masonry layout. If you love social media and "
+"want to grow your influence on social platforms, Blossom PinThis has "
+"inbuilt options to integrate Facebook, Snapchat, Twitter, Instagram, "
+"Pinterest, and other major social platforms. You can also depict your "
+"Instagram profile on the homepage in a beautiful section. The theme also "
+"helps you grow your email list with newsletter section. The theme is also "
+"highly customizable. It comes with 20+ custom widgets that make your blog "
+"more functional. Blossom PinThis is great for making passive income from "
+"your blog. The theme’s advertisement widget helps you place ads easily on "
+"your blog. You can also create a fully functioning ecommerce website and "
+"sell your products with Blossom PinThis. The theme is translation ready and "
+"supports RTL scripts also. If you run into any problem or need guidance, "
+"Blossom PinThis is backed with extensive documentation and friendly, human "
+"support with quick response time. Check demo: "
+"https://blossomthemes.com/theme-demo/?theme=blossom-pinthis, documentation: "
+"https://docs.blossomthemes.com/docs/blossom-pinthis/ and get support: "
+"https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:507
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:508
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:509
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""
